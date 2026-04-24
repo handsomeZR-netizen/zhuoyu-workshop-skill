@@ -1,0 +1,4 @@
+interface:
+  display_name: "琢玉工坊"
+  short_description: "学生项目交付、答辩包装、报告论文和 Codex 编程辅助工作流。"
+  default_prompt: "使用琢玉工坊帮我梳理一个学生项目，输出项目诊断、成果包装方案、答辩材料结构和验收清单。"
