@@ -1,4 +1,34 @@
-# 琢玉工坊
+# Zhuoyu Workshop Skill
+
+<!-- PORTFOLIO-SNAPSHOT:START -->
+<p align="left">
+  <img src="https://img.shields.io/badge/category-AI--assisted%20workflow%20tooling-blue" alt="Category" />
+  <img src="https://img.shields.io/badge/status-Public%20portfolio%20artifact-2ea44f" alt="Status" />
+</p>
+
+> Codex skill for student project delivery: reports, defense decks, academic writing, and reusable AI-assisted engineering workflows.
+
+## Project Snapshot
+
+- Category: AI-assisted workflow tooling
+- Stack: ai-workflow, chinese, codex-skill, student-projects, defense-ppt
+- Status: Public portfolio artifact
+
+## What This Demonstrates
+
+- Presents the project with a clear purpose, technology stack, and review path.
+- Shows applied AI workflow design in a concrete product or learning scenario.
+- Keeps implementation details and usage notes close to the code for easier reuse.
+
+## Quick Start
+
+```bash
+Start from README.md
+```
+
+<!-- PORTFOLIO-SNAPSHOT:END -->
+
+## Original Documentation
 
 > 玉不琢，不成器；项目不理，不成章。
 
